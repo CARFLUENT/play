@@ -1,0 +1,21 @@
+{
+  "name": "Carfluent-Play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "bundle install",
+    "start": "bundle exec jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CARFLUENT/play.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CARFLUENT/play/issues"
+  },
+  "homepage": "https://github.com/CARFLUENT/play#readme"
+}
